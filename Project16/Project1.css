@@ -1,0 +1,122 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    padding: 10px;
+    display: flex;
+    background-color: aquamarine;
+    margin-top: 50px;
+    gap: 100px;
+    }
+.active a{
+    color: rgb(10, 10, 19);
+}
+.para{
+    align-items: center;
+    font-size: large;
+    margin-left: 10px;
+    margin-top: 30px;
+    padding: 100px;
+    gap: 90px;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN50HFtx7CD24vk6rLLw15oWAGB4JDfRNCzg&usqp=CAU);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.para a{
+    margin-left: 100px;
+}
+.para h2{
+    color: aqua;
+}
+.second{
+    background-color: greenyellow;
+}
+.second button{
+    display: flex;
+    margin-left: 600px;
+    background-color: lightcoral;
+}
+.three{
+    background-color: white;
+}
+.one{
+    margin-left: 500px;
+    color: black;
+}
+.img{
+  padding: 10px;
+  gap: 100px;
+  padding-left: 100px;
+  display: flex;
+  background-color: antiquewhite;
+}
+.new{
+    background-color: black;
+    color: greenyellow;
+    padding: 70px;
+}
+.new button{
+    color: red;
+}
+.new2{
+    display: flex;
+    padding: 70px;
+    gap: 90px;
+}
+.new2 h1{
+  color: greenyellow;
+}
+.new2 button{
+    color: red;
+}
+.About{
+    margin-left: 500px;
+    color: greenyellow;
+}
+.About p{
+    color: black;
+}
+.About1{
+    padding: 80px;
+    display: flex;
+    gap: 190px;
+}
+.name{
+    background-color: gainsboro;
+}
+.what{
+    background-color: azure;
+}
+.request1{
+    background-color: rgb(83, 83, 120);
+    gap: 20px;
+}
+.request1 input{
+    gap: 70px;
+}
+.request{
+    color: greenyellow;
+    margin-left: 500px;
+}
+.request h4{
+    color: black;
+}
+.input{
+    gap: 60px;
+    color: aqua;
+}
+.bottom{
+    display: flex;
+    background-color: aquamarine;
+    gap: 100px;
+}
+.bottom h1{
+    color: brown;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bottom p{
+    font-size: medium;
+    font-style: italic;
+}
